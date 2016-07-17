@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.belaytech.device.test;
+package com.belaytech.device.DO;
 
 import com.belaytech.device.DO.VMTemplate;
 import org.junit.Test;
